@@ -9,4 +9,4 @@ In Russia, vehicle registration plates (commonly called “numbers”) consist o
 We have developed our own model and deployed it as a Telegram bot: AI оценка номера авто.
 
 -----
-<a href='www.kaggle.com/competitions/russian-car-plates-prices-prediction/overview/description' > Read more </a>
+<a href='https://www.kaggle.com/competitions/russian-car-plates-prices-prediction/overview/description' > Read more </a>
